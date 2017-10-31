@@ -6,7 +6,7 @@ Viewing a gray-scale video as a 3D volume, its VLBC and CVLBC features are extra
 Complilation
 ============
 
-This code is compiled with g++ and cuda-toolbox-8.0.
+This project is compiled with g++ and cuda-toolbox-8.0.
 
 
 Usage
@@ -22,11 +22,11 @@ Reference
 
 2, If you use this code in your work, please cite the following paper in your publication:
 
-@ARTICLE{8030131, 
-	author={Xiaochao Zhao and Yaping Lin and Janne Heikkilä}, 
-	journal={IEEE Transactions on Multimedia}, 
-	title={Dynamic Texture Recognition Using Volume Local Binary Count Patterns with an Application to 2D Face Spoofing Detection}, 
-	year={2017}, 
-	doi={10.1109/TMM.2017.2750415}, 
-	ISSN={1520-9210}
-}
+	@article{8030131, 
+		author={Xiaochao Zhao and Yaping Lin and Janne Heikkilä}, 
+		journal={IEEE Transactions on Multimedia}, 
+		title={Dynamic Texture Recognition Using Volume Local Binary Count Patterns with an Application to 2D Face Spoofing Detection}, 
+		year={2017}, 
+		doi={10.1109/TMM.2017.2750415}, 
+		ISSN={1520-9210}
+	}
