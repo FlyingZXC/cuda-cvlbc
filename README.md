@@ -3,7 +3,8 @@ Completed Volume Local Binary Count Pattern (cuda version)
 
 Viewing a gray-scale video as a 3D volume, its VLBC and CVLBC features are extracted for dynamic texture recognition or 2D face spoofing detection. For more information, please refer to the paper http://ieeexplore.ieee.org/abstract/document/8030131/.
 
-Complilation
+
+Compilation
 ============
 
 This project is compiled with g++ and cuda-toolbox-8.0.
