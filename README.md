@@ -13,7 +13,7 @@ This project is compiled with g++ and cuda-toolbox-8.0.
 Usage
 =====
 
-In the file cvlbc.cu, an example of extracting features from the videos in the Print-Attack is presented. Firstly, the frames of a given gray-scale video are converted to gray-scale pgm files and are named consecutively, e.g., 1.pgm, 2.pgm.... Then, these pgm images are loaded one-by-one, resulting in a 2D array. Finally, features are extracted from the array.
+In the file cvlbc.cu, an example of extracting features from the videos in the Print-Attack is presented. Firstly, the frames of a given gray-scale video are converted to gray-scale pgm files and are named consecutively, e.g., 1.pgm, 2.pgm.... Then, these pgm images are loaded one-by-one, resulting in a 1D array. Finally, features are extracted from the array.
 
 
 Reference
